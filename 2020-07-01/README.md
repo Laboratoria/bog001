@@ -6,6 +6,15 @@
 
 https://app.sli.do/event/erec3lyk/live/questions
 
-## Agenda
+## Links
 
-...
+* https://app.sli.do/event/erec3lyk/live/questions
+* https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Usar_promesas
+* https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise
+* https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch
+* https://developer.mozilla.org/es/docs/Web/API/Fetch_API
+* https://nodejs.org/docs/latest/api/modules.html
+* https://en.wikipedia.org/wiki/CommonJS
+* http://latentflip.com/loupe/
+* https://github.com/lupomontero/space-agency
+* https://developer.mozilla.org/es/docs/Glossary/Mobile_First
