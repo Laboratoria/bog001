@@ -1,0 +1,18 @@
+{
+  "name": "2020-07-08",
+  "version": "1.0.0",
+  "description": "* Delegación eventos * Callbacks * Fundamentos * Git (conflicto/resolución) * Ejercicio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
