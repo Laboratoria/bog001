@@ -18,7 +18,7 @@ describe('calculateRequiredFuel', () => {
   });
 });
 
-describe.only('processInput', () => {
+describe('processInput', () => {
   it('debería retornar 6 para ...', () => {
     expect(processInput('12\n12\n14\n')).toBe(6);
   });
