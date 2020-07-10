@@ -1,0 +1,20 @@
+<html>
+<head></head>
+<body>
+<button>Hola</button>
+<script>
+const btn = document.querySelector('button');
+
+btn.addEventListener('click', () => {
+  console.log('OMG');
+  const req = new XMLHttpRequest();
+  req.onreadystatechange = (e) => {
+    console.log('readtystatechanged!', e, req.responseText);
+  };
+  req.open('GET', 'https://api.laboratoria.la/');
+});
+
+console.log(btn);
+</script>
+</body>
+</html>
