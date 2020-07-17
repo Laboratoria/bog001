@@ -25,3 +25,5 @@ https://app.sli.do/event/fjicosfi
 * https://medium.com/laboratoria-developers/vanillajs-vs-jquery-31e623bbd46e
 * https://rogerdudler.github.io/git-guide/index.es.html
 * https://www.youtube.com/playlist?list=PLiAEe0-R7u8k9o3PbT3_QdyoBW_RX8rnV
+
+OMG
