@@ -1,6 +1,6 @@
-# Sesión 2 (1 Jul 2020)
+# Taller/Q&A - 1 Jul 2020 - Asincronía - @lupomontero
 
-[![BOG001: Sesión 2 (1 Jul 2020)](https://img.youtube.com/vi/yP0xn-7FDDQ/0.jpg)](https://youtu.be/yP0xn-7FDDQ)
+[![BOG001: Taller/Q&A - 1 Jul 2020 - Asincronía - @lupomontero](https://img.youtube.com/vi/yP0xn-7FDDQ/0.jpg)](https://youtu.be/yP0xn-7FDDQ)
 
 ## Preguntas en sli.do
 

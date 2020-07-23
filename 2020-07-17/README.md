@@ -1,6 +1,6 @@
-# Sesión 5 (17 Jul 2020)
+# Taller/Q&A - 17 Jul 2020 - git rebase - @lupomontero
 
-[![BOG001: Sesión 4 (15 Jul 2020)](https://img.youtube.com/vi/vyj09GZKmk8/0.jpg)](https://youtu.be/vyj09GZKmk8)
+[![BOG001: Taller/Q&A - 17 Jul 2020 - git rebase - @lupomontero](https://img.youtube.com/vi/vyj09GZKmk8/0.jpg)](https://youtu.be/vyj09GZKmk8)
 
 ## Agenda
 

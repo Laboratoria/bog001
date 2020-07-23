@@ -1,6 +1,6 @@
-# Sesión 3 (8 Jul 2020)
+# Taller/Q&A - 8 Jul 2020 - Ej rocket equation, delegar eventos y conflicto git - @lupomontero
 
-[![BOG001: Sesión 3 (8 Jul 2020)](https://img.youtube.com/vi/-dtEbTvRqnQ/0.jpg)](https://youtu.be/-dtEbTvRqnQ)
+[![BOG001: Taller/Q&A - 8 Jul 2020 - Ej rocket equation, delegar eventos y conflicto git - @lupomontero](https://img.youtube.com/vi/-dtEbTvRqnQ/0.jpg)](https://youtu.be/-dtEbTvRqnQ)
 
 ## Preguntas en sli.do
 

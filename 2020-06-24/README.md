@@ -1,6 +1,6 @@
-# Sesión 1 (24 Jun 2020)
+# Taller/Q&A - 24 Jun 2020 - Testing - @lupomontero
 
-[![BOG001: Sesión 1 (24 Jun 2020)](https://img.youtube.com/vi/ZdVmlkJuoCU/0.jpg)](https://youtu.be/ZdVmlkJuoCU)
+[![BOG001: Taller/Q&A - 24 Jun 2020 - Testing - @lupomontero](https://img.youtube.com/vi/ZdVmlkJuoCU/0.jpg)](https://youtu.be/ZdVmlkJuoCU)
 
 ## Links
 

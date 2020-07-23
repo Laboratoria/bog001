@@ -1,6 +1,6 @@
-# Sesión 4 (15 Jul 2020)
+# Taller/Q&A - 15 Jul 2020 - Ejercicio de Inverse Captcha - @lupomontero
 
-[![BOG001: Sesión 4 (15 Jul 2020)](https://img.youtube.com/vi/SqEhKF2LNE0/0.jpg)](https://youtu.be/SqEhKF2LNE0)
+[![BOG001: Taller/Q&A - 15 Jul 2020 - Ejercicio de Inverse Captcha - @lupomontero](https://img.youtube.com/vi/SqEhKF2LNE0/0.jpg)](https://youtu.be/SqEhKF2LNE0)
 
 ## Agenda
 
