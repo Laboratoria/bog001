@@ -1,0 +1,11 @@
+html, body, .carousel {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

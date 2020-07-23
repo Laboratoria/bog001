@@ -1,0 +1,18 @@
+{
+  "name": "inverse-captcha",
+  "version": "1.0.0",
+  "description": "1. Primero tomar un string y convertirlo en array 2. y luego proceder con un loop 3. y darle la funcion // la iteracion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
