@@ -4,16 +4,10 @@
 
 * Ejercicio [Hola carrusel!](https://gist.github.com/lupomontero/93f426ba12334ad628be3830d4f56346)
 
-### Preguntas pendientes de sesión anterior
+## Preguntas pendientes de sesión anterior
 
 * Iteración: **Refactorizar ejercicio usando
   `Array.prototype.map`, `Array.prototype.reduce`**.
-* Expresiones vs sentencias
-* Operaciones con objetos?
-* `switch`
-* `async/await` / `try/catch`?
-* _funciones_ (function statements, function expressions, arrow functions, this).
-  Sugerida por coaches.
 
 ## Links
 

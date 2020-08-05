@@ -6,3 +6,4 @@
 * [Taller/Q&A - 15 Jul 2020 - Ejercicio de Inverse Captcha - @lupomontero](./2020-07-15)
 * [Taller/Q&A - 17 Jul 2020 - git rebase - @lupomontero](./2020-07-17)
 * [Taller/Q&A - 22 Jul 2020 - Ejercicio Hola Carrusel! - @lupomontero](./2020-07-22)
+* [Taller/Q&A - 29 Jul 2020 - Ejercicio No realmente Lisp y funciones - @lupomontero + Daniel De La Rosa](./2020-07-29)
