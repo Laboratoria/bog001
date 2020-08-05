@@ -1,6 +1,6 @@
-# Taller/Q&A - 8 Jul 2020 - Ej rocket equation, delegar eventos y conflicto git - @lupomontero
+# Taller/Q&A - 8 Jul 2020 - Ejercicio Rocket Equation, delegar eventos y conflicto git - @lupomontero
 
-[![BOG001: Taller/Q&A - 8 Jul 2020 - Ej rocket equation, delegar eventos y conflicto git - @lupomontero](https://img.youtube.com/vi/-dtEbTvRqnQ/0.jpg)](https://youtu.be/-dtEbTvRqnQ)
+[![BOG001: Taller/Q&A - 8 Jul 2020 - Ejercicio Rocket Equation, delegar eventos y conflicto git - @lupomontero](https://img.youtube.com/vi/-dtEbTvRqnQ/0.jpg)](https://youtu.be/-dtEbTvRqnQ)
 
 ## Preguntas en sli.do
 
