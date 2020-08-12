@@ -1,6 +1,6 @@
 # Taller/Q&A - 5 Ago 2020 - Firebase: pruebas unitarias, mocks - @lupomontero
 
-[![BOG001: Taller/Q&A - 29 Jul 2020 - Ejercicio No realmente Lisp y funciones - @lupomontero + Daniel De La Rosa](https://img.youtube.com/vi/ZiwzmRHsLbM/0.jpg)](https://youtu.be/ZiwzmRHsLbM)
+[![BOG001: Taller/Q&A - 5 Ago 2020 - Firebase: pruebas unitarias, mocks - @lupomontero](https://img.youtube.com/vi/ZiwzmRHsLbM/0.jpg)](https://youtu.be/ZiwzmRHsLbM)
 
 ## Temas
 
