@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`replaceImagesWithFigures debería ignorar imagen que ya está dentro de un figure 1`] = `
+<div>
+  
+      
+  <div>
+    
+        
+    <div>
+      
+          
+      <figure>
+        
+            
+        <img
+          alt="Blah blah blah"
+          src="omg.png"
+        />
+        
+          
+      </figure>
+      
+        
+    </div>
+    
+      
+  </div>
+  
+    
+</div>
+`;
+
+exports[`replaceImagesWithFigures debería ignorar imagen que ya está dentro de un figure 2`] = `
+<div>
+  
+      
+  <div>
+    
+        
+    <div>
+      
+          
+      <figure>
+        
+            
+        <img
+          alt="Blah blah blah"
+          src="omg.png"
+        />
+        
+          
+      </figure>
+      
+        
+    </div>
+    
+      
+  </div>
+  
+    
+</div>
+`;
