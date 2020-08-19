@@ -1,4 +1,6 @@
-# Taller/Q&A - 12 Ago 2020 - Ejercicio _Replace Images With Figures_ (DOM) - @lupomontero
+# Taller - DOM / Ejercicio replaceImagesWithFigures - @lupomontero - 12 Ago 2020
+
+[![BOG001: Taller - DOM / Ejercicio replaceImagesWithFigures - @lupomontero - 12 Ago 2020](https://img.youtube.com/vi/ecGcQM-6qLE/0.jpg)](https://youtu.be/ecGcQM-6qLE)
 
 ## Ejercicio
 
