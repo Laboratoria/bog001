@@ -9,3 +9,4 @@
 * [Taller/Q&A - 29 Jul 2020 - Ejercicio No realmente Lisp y funciones - @lupomontero + Daniel De La Rosa](./2020-07-29)
 * [Taller/Q&A - 5 Ago 2020 - Firebase: pruebas unitarias, mocks - @lupomontero](./2020-08-05)
 * [Taller - DOM / Ejercicio replaceImagesWithFigures - @lupomontero - 12 Ago 2020](./2020-08-12)
+* [Taller - SPA (Single Page Apps) - @lupomontero - 26 Ago 2020](./2020-08-26)
