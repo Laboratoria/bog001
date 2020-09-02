@@ -10,3 +10,5 @@
 * [Taller/Q&A - 5 Ago 2020 - Firebase: pruebas unitarias, mocks - @lupomontero](./2020-08-05)
 * [Taller - DOM / Ejercicio replaceImagesWithFigures - @lupomontero - 12 Ago 2020](./2020-08-12)
 * [Taller - SPA (Single Page Apps) - @lupomontero - 26 Ago 2020](./2020-08-26)
+* [Taller/Q&A: Asincronía y promesas - 2 Sep 2020](./2020-09-02/promises)
+* [Taller/Q&A: Arquitectura y eventos del DOM - 2 Sep 2020](./2020-09-02/arch)
