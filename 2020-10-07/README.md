@@ -28,6 +28,13 @@
 * https://exercism.io/
 * https://adventofcode.com/
 * https://lms.laboratoria.la/
+* https://www.codewars.com/
+* https://www.sololearn.com/
+* https://nodeschool.io/
+* https://www.freecodecamp.org/
+* https://www.practicepython.org/
+
+
 
 ### Preguntas de entrevista
 
